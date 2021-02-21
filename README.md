@@ -1,1 +1,2 @@
 # Streaming Service Analysis
+We used 2 datasets (both CSV files) from the public platform Kaggle.com. Each dataset was based on IMDB and Rotten Tomatoes ratings for TV shows and Movies on the top 4 streaming platforms: Hulu, Netflix, Amazon Prime, and Disney+. We used Pandas functions in Jupyter Notebook to load both CSV files.
